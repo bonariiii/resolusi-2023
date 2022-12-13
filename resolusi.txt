@@ -3,3 +3,4 @@ tahun depan bonari sudah bisa :
 - menguasai MVC PHP
 - membuat website dinamis gereja HKBP Kutajaya
 - membuat proposal website untuk petinggi gereja
+
