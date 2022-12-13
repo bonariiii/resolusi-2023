@@ -1,3 +1,4 @@
 tahun depan bonari sudah bisa :
 - selalu menggunakan git pada setiap coding
 - menguasai MVC PHP
+- membuat website dinamis gereja HKBP Kutajaya
